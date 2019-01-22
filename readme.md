@@ -1,4 +1,4 @@
-#Artisan Web App
+#FLOG Web App
 
 <p>:  A platform for lecturers to securely upload course files (tutorials, handouts etc.) for students to download accordingly based on their course. </p>
 
